@@ -1,6 +1,6 @@
 {
   "name": "hanzi_to_pinyin",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "chinese hanzi to pinyin via nodejs",
   "main": "./lib/hanzi_to_pinyin.js",
   "scripts": {
