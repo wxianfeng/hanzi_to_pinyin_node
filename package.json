@@ -1,0 +1,16 @@
+{
+  "name": "hanzi_to_pinyin",
+  "version": "0.0.1",
+  "description": "chinese hanzi to pinyin via nodejs",
+  "main": "./lib/hanzi_to_pinyin.js",
+  "scripts": {
+    "test": "node ./test/hanzi_to_pinyin.js"
+  },
+  "bin": { "hanzi_to_pinyin": "./bin/hanzi_to_pinyin.js" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wxianfeng/hanzi_to_pinyin_node"
+  },
+  "author": "wxianfeng",
+  "license": "MIT"
+}
