@@ -14,6 +14,13 @@ var hz_to_py = require("hanzi_to_pinyin");
 hz_to_py.hanzi_to_pinyin("测试");
 ```
 
+### Terminal bin
+
+```bash
+>hanzi_to_pin "测试"
+=>ce;shi
+```
+
 ### Sample
 
 ```javascript
