@@ -8,4 +8,3 @@ assert.equal(hanzi_to_pinyin.hanzi_to_pinyin("拗Smith"),"ao,niu;Smith");
 assert.equal(hanzi_to_pinyin.hanzi_to_pinyin("测试1"),"ce;shi;1");
 assert.equal(hanzi_to_pinyin.hanzi_to_pinyin("测_试-"),"ce;_;shi;-");
 assert.equal(hanzi_to_pinyin.hanzi_to_pinyin("2"),"2");
-
